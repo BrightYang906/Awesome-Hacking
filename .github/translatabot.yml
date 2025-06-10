@@ -1,4 +1,4 @@
-version: 1
+https://github.com/BrightYang906/Awesome-Hacking/commit/ed59d5cce6f32f9f2ae1269f08c0ec88419af964version: 1
 defaultPath: path/to/translation_file.ts # Path to the default translation file
 languages:
   - relativePath: de.ts # Relative path to the auto-translated file
